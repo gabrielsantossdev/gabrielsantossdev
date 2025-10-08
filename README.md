@@ -25,7 +25,7 @@
         src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
     />
 </a>
-<a href="https://www.linkedin.com/in/seu-link-do-linkedin/">
+<a href="https://www.linkedin.com/in/gabriel-santos-833638389">
     <img 
         alt="LinkedIn" 
         title="LinkedIn" 

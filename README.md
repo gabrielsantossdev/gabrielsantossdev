@@ -87,7 +87,7 @@
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api?username=gabrielsantossdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-      style="margin-right: 10px;"
+      style="margin-right: 20px;"
   />
   <img 
       alt="GitHub Top Languages" 

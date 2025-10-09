@@ -89,6 +89,7 @@
       src="https://github-readme-stats.vercel.app/api?username=gabrielsantossdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
       style="margin-right: 20px;"
   />
+    &nbsp;&nbsp;&nbsp;
   <img 
       alt="GitHub Top Languages" 
       height="200" 
